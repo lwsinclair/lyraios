@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/galaxyllmci-lyraios-badge.png)](https://mseep.ai/app/galaxyllmci-lyraios)
+
 # LYRAIOS
 
 ## Overview & Technical Foundation
